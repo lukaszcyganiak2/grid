@@ -1,0 +1,24 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszcyganiak2/grid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszcyganiak2/grid/issues"
+  },
+  "homepage": "https://github.com/lukaszcyganiak2/grid#readme",
+  "devDependencies": {
+    "gitignore": "^0.6.0",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
